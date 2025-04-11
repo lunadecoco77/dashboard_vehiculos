@@ -1,5 +1,5 @@
-pandas
-plotly
 streamlit
+pandas
+plotly-express
 nbformat
 
