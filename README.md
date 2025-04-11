@@ -1,6 +1,26 @@
-Descripción del proyecto
-Este proyecto fue desarrollado por Sandra Cadena como parte del Sprint 7. Consiste en la creación de un dashboard interactivo utilizando Streamlit, con el objetivo de explorar un conjunto de datos sobre anuncios de vehículos en venta en Estados Unidos.
+#  Dashboard interactivo de anuncios de vehículos
 
-La aplicación permite al usuario visualizar distintas variables relevantes del dataset a través de gráficos dinámicos y controles interactivos. Está enfocada en facilitar el análisis de aspectos clave como el kilometraje (odómetro), el precio, el estado del vehículo, el tipo de transmisión, y la marca.
+Este proyecto forma parte del Sprint 7.  
+El objetivo fue desarrollar una **aplicación web interactiva** utilizando **Streamlit** para visualizar y explorar datos reales de anuncios de vehículos usados en Estados Unidos.
 
-Además, el proyecto fue desplegado exitosamente en Render, permitiendo su consulta en línea sin necesidad de instalar dependencias localmente.
+La aplicación permite a cualquier usuario analizar rápidamente aspectos como el kilometraje, el precio, la transmisión, y las relaciones entre variables importantes, todo a través de gráficos interactivos y simples de usar.
+
+##  Funcionalidades principales
+
+- ✅ Visualización de datos crudos (primeras filas del dataset)
+- ✅ Histograma del odómetro
+- ✅ Histograma del precio
+- ✅ Gráfico de dispersión: odómetro vs precio
+- ✅ Gráfico de cajas: precio por tipo de transmisión
+- ✅ Todos los gráficos se activan mediante checkboxes para facilitar la interacción
+
+##  Herramientas utilizadas
+
+- Python 3
+- pandas
+- plotly-express
+- streamlit
+## link
+https://dashboard-vehiculos-pzn6.onrender.com
+
+
